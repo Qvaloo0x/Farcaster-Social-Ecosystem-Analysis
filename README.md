@@ -15,7 +15,7 @@ An analytical deep-dive into Farcaster's on-chain social activity. This project 
 * **Network**: Farcaster (on-chain data)
 
 ## 🔗 Dashboard Link
-[Explore the Farcaster Dashboard here](TU_LINK_DE_DUNE_AQUI)
+[Explore the Farcaster Dashboard here](https://dune.com/qvaloo/farcaster-social-ecosystem-analysis?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
 
 ## 👤 Author
 Developed by **qvaloo** as part of a Web3 Data Intelligence series.
